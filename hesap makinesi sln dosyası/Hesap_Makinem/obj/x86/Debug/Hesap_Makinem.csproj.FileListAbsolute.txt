@@ -1,0 +1,26 @@
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\Hesap_Makinem\Hesap_Makinem\bin\Debug\Hesap_Makinem.exe
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\Hesap_Makinem\Hesap_Makinem\bin\Debug\Hesap_Makinem.pdb
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\Hesap_Makinem\Hesap_Makinem\obj\x86\Debug\Hesap_Makinem.Form1.resources
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\Hesap_Makinem\Hesap_Makinem\obj\x86\Debug\Hesap_Makinem.Properties.Resources.resources
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\Hesap_Makinem\Hesap_Makinem\obj\x86\Debug\Hesap_Makinem.csproj.GenerateResource.Cache
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\Hesap_Makinem\Hesap_Makinem\obj\x86\Debug\Hesap_Makinem.exe
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\Hesap_Makinem\Hesap_Makinem\obj\x86\Debug\Hesap_Makinem.pdb
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\Hesap_Makinem\Hesap_Makinem\obj\x86\Debug\Hesap_Makinem.csprojResolveAssemblyReference.cache
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\Hesap_Makinem\Hesap_Makinem\bin\Debug\Hesap_Makinem.exe.manifest
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\Hesap_Makinem\Hesap_Makinem\bin\Debug\Hesap_Makinem.application
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\Hesap_Makinem\Hesap_Makinem\obj\x86\Debug\Hesap_Makinem.exe.manifest
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\Hesap_Makinem\Hesap_Makinem\obj\x86\Debug\Hesap_Makinem.application
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\hesap makinesi sln dosyaso\Hesap_Makinem\obj\x86\Debug\Hesap_Makinem.exe
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\hesap makinesi sln dosyaso\Hesap_Makinem\obj\x86\Debug\Hesap_Makinem.pdb
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\hesap makinesi sln dosyası\Hesap_Makinem\obj\x86\Debug\Hesap_Makinem.exe
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\hesap makinesi sln dosyası\Hesap_Makinem\obj\x86\Debug\Hesap_Makinem.pdb
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\hesap makinesi sln dosyası\Hesap_Makinem\bin\Debug\Hesap_Makinem.exe.manifest
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\hesap makinesi sln dosyası\Hesap_Makinem\bin\Debug\Hesap_Makinem.application
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\hesap makinesi sln dosyası\Hesap_Makinem\bin\Debug\Hesap_Makinem.exe
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\hesap makinesi sln dosyası\Hesap_Makinem\bin\Debug\Hesap_Makinem.pdb
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\hesap makinesi sln dosyası\Hesap_Makinem\obj\x86\Debug\Hesap_Makinem.csprojResolveAssemblyReference.cache
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\hesap makinesi sln dosyası\Hesap_Makinem\obj\x86\Debug\Hesap_Makinem.Form1.resources
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\hesap makinesi sln dosyası\Hesap_Makinem\obj\x86\Debug\Hesap_Makinem.Properties.Resources.resources
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\hesap makinesi sln dosyası\Hesap_Makinem\obj\x86\Debug\Hesap_Makinem.csproj.GenerateResource.Cache
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\hesap makinesi sln dosyası\Hesap_Makinem\obj\x86\Debug\Hesap_Makinem.exe.manifest
+C:\Users\metin\Desktop\projelerim\Hesap Makinesi\hesap makinesi sln dosyası\Hesap_Makinem\obj\x86\Debug\Hesap_Makinem.application
